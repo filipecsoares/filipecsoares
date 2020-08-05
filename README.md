@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Filipe Soares from Brazil (🇧🇷). I've been working as a Java Developer since 2014. 
-- 🌱 I'm currently learning NodeJs and React.
+- 🌱 I'm currently learning NodeJs, React and TypeScript.
 - 💬 Ask me about Java, JavaScript, Clean Code.
 - 📫 How to reach me:
 
