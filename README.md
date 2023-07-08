@@ -1,20 +1,14 @@
 ### Hi there 👋
 
 I'm Filipe Soares from Brazil (🇧🇷). I've been working as a Java Developer since 2014. 
-- 🌱 I'm currently learning Microservices, Docker, Go, TypeScript, React and Vue.
-- 💬 Ask me about Java, JavaScript, Clean Code.
 
-<!--
-**filipecsoares/filipecsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecsoares&theme=dark&hide=HTML,CSS&layout=compact)](https://github.com/filipecsoares)
 
-Here are some ideas to get you started:
+#### 📚 Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on the following areas:
+
+- Mastering Microservices architecture and design principles
+- Exploring containerization with Docker and orchestration with Kubernetes
+- Expanding my knowledge of Go and Rust programming language
+- Honing my skills in writing clean, maintainable code
