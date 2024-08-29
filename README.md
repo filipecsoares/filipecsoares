@@ -4,7 +4,7 @@ I'm Filipe Soares from Brazil (🇧🇷). I've been working as a Software Develo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecsoares&theme=dark&hide=HTML,CSS&layout=compact)](https://github.com/filipecsoares)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=filipecsoares&show_icons=true&count_private=true&line_height=25&hide=issues&border_radius=3&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecsoares&show_icons=true&theme=dark&hide=issues&border_radius=3)
 
 #### Learning Journey 📚
 
