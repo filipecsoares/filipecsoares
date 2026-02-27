@@ -1,20 +1,34 @@
 ### Hi there 👋
 
-I'm Filipe Soares from Brazil (🇧🇷). I've been working as a Software Developer since 2014.
+I'm Filipe Soares from Brazil (🇧🇷).  
+Senior Java Developer and Software Architect with 10+ years of experience in backend development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecsoares&theme=dark&hide=HTML,CSS&layout=compact)](https://github.com/filipecsoares)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecsoares&show_icons=true&theme=dark&hide=issues&border_radius=3)
+#### 🚀 Current Focus
 
-#### Learning Journey 📚
+- Microservices architecture
+- Writing maintainable and well-structured code
+- Secure application design (Spring Security)
+- Strengthening Computer Science fundamentals
 
-Currently, I'm focusing on the following areas:
+---
 
-- Mastering Microservices architecture and design principles
-- Exploring containerization with Docker and orchestration with Kubernetes
-- Honing my skills in writing clean, maintainable code
-- Web Security and Spring Security
+#### 🛠 Core Stack
 
-#### Contact
+- Java • Spring Boot • Spring Security  
+- REST APIs • Microservices  
+- Docker  
+- Unit Testing • Refactoring  
+
+---
+
+#### 🎯 Goal
+
+To continuously improve as a Software Architect and build high-quality, long-lasting software.
+
+---
+
+#### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/filipe-soares-897a2151/)
